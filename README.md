@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael Nieto</h1>
-<h3 align="center">A true Jack-of-all-trades eager to learn new things everyday.</h3>
+<h3 align="center">A true Jack-of-all-trades, eager to learn new things everyday.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzs7jf&label=Profile%20views&color=0e75b6&style=flat" alt="uzs7jf" /> </p>
 
