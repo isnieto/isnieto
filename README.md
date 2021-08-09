@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ismaelnieto69" target="blank"><img src="https://img.shields.io/twitter/follow/ismaelnieto69?logo=twitter&style=for-the-badge" alt="ismaelnieto69" /></a> </p>
 
-- 🔭 I’m currently working on [Chat with React, NodeJs and MongoDb](https://github.com/uzs7jf/chat-react-node-mongodb)
+- 🔭 I’m currently working on a personal job applications tracking page [Node, Prisma, Postgress](https://github.com/isnieto/node-prisma-postgresql)
 
-- 🌱 I’m currently learning **NodeJs, React, MongoDb**
+- 🌱 I’m currently learning **React, Docker**
 
 - 👨‍💻 All of my projects are available at [https://isnieto.github.io](https://isnieto.github.io)
 
